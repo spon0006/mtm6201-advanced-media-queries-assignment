@@ -166,3 +166,12 @@ nav a:focus {
   background-color: #968DFF;
   color: white;
 }
+/* Styles to be applied between 700 and 999 tablet */
+@media screen and (min-width: 700px){
+  
+}
+
+/* Styles to be applied above 1000 Desktop */
+@media screen and (min-width: 1000px){
+  
+}
